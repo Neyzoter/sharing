@@ -1,2 +1,2 @@
-# sharing
-Book, Movie
+# 书影音花园
+笔记软件可太贵了，用Github记录我的书影音。
